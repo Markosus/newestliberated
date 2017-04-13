@@ -97,7 +97,7 @@
 
 					<div class="block">
 						<label for="submit"></label>
-						<button type="submit" name="submit" value="Send" class="btn btn-default">Send</button>
+						<button type="submit" name="submit" value="Send" class="btn btn-default">SEND</button>
 					</div>
 
 					<input type="hidden" name="question" value="{{ $question }}">

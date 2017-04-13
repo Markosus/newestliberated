@@ -20,6 +20,10 @@
 		</div>
 
 		<div id="contact">
+			@include('homepage.newsletter')
+		</div>
+
+		<div id="contact">
 			@include('homepage.contact')
 		</div>
 

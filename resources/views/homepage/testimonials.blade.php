@@ -13,13 +13,13 @@
   <div class="carousel-inner" role="listbox">
     <div class="item active">
     		<!-- start first item -->
-     		<div id="testimonialsfold">
+     		<div id="testimonialsfold3">
 				<div class="container">		
 					<div class="row">			
 						<div class="col-md-12 testimonials-container text-center">	
 							<div class="testimonials-inner-container text-center">
 
-								<a id="my-testimonials"></a>
+								<a id="my-testimonials3"></a>
 
 								<h1 class="text-center">Testimonials</h1>	
 
@@ -51,7 +51,7 @@
 					</div>
 				</div> <!-- end container -->
 		</div> <!-- end testimonials -->	
-		<div class="triangle"></div>
+		<div class="triangle" style="border-top: 70px solid #4e2904"></div>
     </div> <!-- end first item -->
 
     <div class="item">
@@ -65,7 +65,7 @@
 								<a id="my-testimonials"></a>
 								<h1 class="text-center">Testimonials</h1>	
 
-								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.png' )}}">
+								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.svg' )}}">
 
 								<div class="quotewrapper">
 									<hr class="testimonial-hr">
@@ -107,7 +107,7 @@
 								<a id="my-testimonials"></a>
 								<h1 class="text-center">Testimonials</h1>	
 
-								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.png' )}}">
+								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.svg' )}}">
 
 								<div class="quotewrapper">
 									<hr class="testimonial-hr">
@@ -189,7 +189,7 @@
 								<a id="my-testimonials"></a>
 								<h1 class="text-center">Testimonials</h1>	
 
-								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.png' )}}">
+								<img class="testimonial-image" src="{{ URL::to('/images/homepage/default.svg' )}}">
 
 								<div class="quotewrapper">
 									<hr class="testimonial-hr">
